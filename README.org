@@ -1,0 +1,9 @@
+* bordeaux-threads
+
+Bordeaux-Threads is a Common Lisp threading library.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/sionescu/bordeaux-threads.git |
+| commit  | a0b2ea3                                              |
+| systems | bordeaux-threads                                     |
+|---------+------------------------------------------------------|
