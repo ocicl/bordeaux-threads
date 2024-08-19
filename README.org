@@ -3,7 +3,7 @@
 Bordeaux-Threads is a Common Lisp threading library.
 
 |---------+-----------------------------------------------------------------------------------|
-| source  | file:https://github.com/sionescu/bordeaux-threads/archive/refs/tags/v0.9.3.tar.gz |
-| version | 0.9.3                                                                             |
+| source  | file:https://github.com/sionescu/bordeaux-threads/archive/refs/tags/v0.9.4.tar.gz |
+| version | 0.9.4                                                                             |
 | systems | bordeaux-threads                                                                  |
 |---------+-----------------------------------------------------------------------------------|
